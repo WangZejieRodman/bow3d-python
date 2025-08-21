@@ -109,7 +109,7 @@ python Example.py
 1. 下载KITTI Odometry数据集
 2. 将数据放置在以下目录结构：
 ```
-/home/user/Data/KITTI/
+/home/user/pan1/Data/KITTI/
 ├── 00/
 │   └── velodyne/
 │       ├── 000000.bin
